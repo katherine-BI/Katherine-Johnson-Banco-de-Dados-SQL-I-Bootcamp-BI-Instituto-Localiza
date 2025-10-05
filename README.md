@@ -43,10 +43,14 @@ O objetivo deste relatório é:
 Este projeto foi realizado em um esforço colaborativo de grupo. Cada aluna contribuiu significativamente, seja através da criação individual de scripts ou no suporte e revisão da construção coletiva.
 
 ### 👩‍💻 Alunas Participantes
-* [**Nome da Aluna 1**]
-* [**Nome da Aluna 2**]
-* [**Nome da Aluna 3**] 
-* [**Nome da Aluna 4**] 
-
-*(Lembre-se de substituir os espaços acima com os nomes das participantes.)*
+* Alessandra Batista de Jesus
+* Ana Clara de Souza Cruz
+* Anita Flávia Gomes de Souza
+* Belmira Leite dos Reis Valle
+* Carolina Cavalcante Lima
+* Cecília Mesquita Ribeiro
+* Letycia Andrade Locha
+* Mariana Ferreira Silva
+* Paula Chidiac Schuster
+* Thainara Meneghelli
 
